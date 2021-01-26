@@ -3,7 +3,7 @@
 ## Overview
 
 This project is to detect the license plate of the cars using the Yolo v3 model and recognize the plate number by OCR using the 
-tesseract framework.
+tesseract framework. Yolo v3 model is trained with the training data for the custom object detection using darkent.
 
 ## Installation
 
